@@ -6,4 +6,5 @@ Este projeto é o código-fonte da aula 1 de PSW, que explica os seguintes conce
 * Loggin
 * Testes Unitários
 * Javadoc
+* Maven
 
